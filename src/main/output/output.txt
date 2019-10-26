@@ -1,0 +1,12 @@
+List(src/main/resources/data1.txt, src/main/resources/data3.txt, src/main/resources/data2.txt), 3
+*************
+Buffer((access,21)),Buffer((access,19)),Buffer((access,20)),
+*************
+60
+*************
+src/main/resources/data1.txt
+Buffer((access,4), (an,1), (illegal,4), (informacion,1), (use,1), (warning,5), (consider,1), (all,1), (please,1), (reflective,2))
+src/main/resources/data3.txt
+Buffer((access,3), (an,1), (illegal,4), (use,1), (warning,5), (consider,1), (all,1), (please,1), (reflective,2))
+src/main/resources/data2.txt
+Buffer((access,4), (an,1), (illegal,4), (use,1), (warning,5), (consider,1), (all,1), (please,1), (reflective,2))
